@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yanz616
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning in programming language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JS, dart, and php
+- 🌱 I’m currently learning in dart and php
+- 💞️ I’m looking to collaborate on flutter and php
 - 📫 How to reach me ...
 
 <!---
