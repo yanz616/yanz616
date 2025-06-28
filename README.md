@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @yanz616
+- 👋 Hi, I’m Muhammad Adriyan Mazkur 
 - 👀 I’m interested in dart and php
 - 🌱 I’m currently learning in dart and php
-- 💞️ I’m looking to collaborate on flutter and php
-- 📫 How to reach me ...
+- i like framework flutter and laravel
+- 💞️ I’m looking to collaborate on flutter and laravel
+- 📫 How to reach me(){
+- 
 
 <!---
 yanz616/yanz616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
